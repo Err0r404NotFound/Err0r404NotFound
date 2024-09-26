@@ -1,14 +1,19 @@
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhkOHF6Nmg3NDEzdmhqYmQxaW9xMHlpbHB5eG1xaXF1Zzh2czRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8rEAbtG4WA2ULH7CH/giphy.gif" width="200">
-    <h1 align="center">Hi, I'm Diego G</h1>
+    <h1 align="center">Hi<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="" width="30" height="30">, I'm Diego G</h1>
     <h3 align="center">I’m a software developer and tech enthusiast with a passion for create, solved problems and optimizing process.</h3>
 </div>
 
 <div id="badges" align="center">
     <a href="https://discord.gg/U2mkF2cY9e"><img alt="Discord" src="https://img.shields.io/discord/1060195469466271785?logo=discord"></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Err0r404NotFound)
+
 </div>
 
+
+        
 -----
+
 🔓 About Me
 
 
@@ -44,7 +49,6 @@
   </div>
 
   ---
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Err0r404NotFound&repo=PyCheat_Demo)](https://github.com/Err0r404NotFound/PyCheat_Demo) -
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Err0r404NotFound&repo=CIFRADO-METODO-HILL)](https://github.com/Err0r404NotFound/CIFRADO-METODO-HILL)
+  
   
 </div>
