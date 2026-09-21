@@ -20,7 +20,7 @@
     - 🔭 I’m currently working as a developer at a company, utilizing various methodologies including VB, 
       C#, and .NET with SQL Server, as well as JavaScript.
       
-    - 👨‍🎓 I’m currently studying Software Engineering 5/8
+    - 👨‍🎓 I’m currently studying Software Engineering 6/8
     
     - 🌱 In my spare time, I enjoy programming with different technologies that I don't typically use, 
       including Python, Java, and React.
